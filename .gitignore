@@ -1,0 +1,7 @@
+# Binaries
+spotomusic
+
+# Configuration and temporary files
+client_secret_*.json
+debug.html
+.env
