@@ -6,7 +6,6 @@ A Go CLI application that transfers your Spotify playlists to YouTube.
 
 - Lists all your Spotify playlists
 - Automatically transfers playlists to YouTube
-- Smart song matching algorithm
 - Fast and reliable transfer
 - Detailed progress reports
 - Easy setup and usage
@@ -171,7 +170,6 @@ Log files are stored at `$HOME/.spotomusic/logs/spotomusic.log`
 
 ## Acknowledgments
 
-- [Spotify Web API (for reference on Spotify concepts, not direct use)](https://developer.spotify.com/documentation/web-api/)
 - [YouTube Data API](https://developers.google.com/youtube/v3)
 - [Cobra CLI](https://github.com/spf13/cobra)
 - [Viper Config](https://github.com/spf13/viper)
