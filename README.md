@@ -1,7 +1,3 @@
-# SpoToMusic
-
-A Go CLI application that transfers your Spotify playlists to YouTube.
-
 ## Features
 
 - Lists all your Spotify playlists
