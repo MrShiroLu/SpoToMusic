@@ -5,3 +5,6 @@ spotomusic
 client_secret_*.json
 debug.html
 .env
+
+# test files
+*_test.go
